@@ -1,4 +1,5 @@
 # Writeup for RWCTF-3rd router3 and real writeup for CVE-2020-14104
+[中文版](https://github.com/chaitin/Real-World-CTF-3rd-Challenge-Attachments/blob/main/router3/writeup_zh.md)
 
 I made a challenge named [router3](https://github.com/chaitin/Real-World-CTF-3rd-Challenge-Attachments/tree/main/router3) for [RWCTF-3rd](https://ctftime.org/event/1198). Team [CodeR00t](https://ctftime.org/team/143448) ,[Bushwhackers](https://blog.bushwhackers.ru/) and [Sauercloud](https://twitter.com/Sauercl0ud) solved it during the game, congratulations to them!
 

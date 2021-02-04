@@ -1,5 +1,5 @@
 # RWCTF-3rd router3 & CVE-2020-14104 writeup
-> English version：to be filled
+[English version](https://github.com/chaitin/Real-World-CTF-3rd-Challenge-Attachments/blob/main/router3/writeup.md)
 
 在第三届RWCTF<sup>[1]</sup>中，我出了一道名为router3<sup>[2]</sup>的题目，考察了选手的逆向能力和漏洞挖掘能力。恭喜CodeR00t<sup>[3]</sup>，Bushwhackers<sup>[4]</sup>和Sauercloud<sup>[5]</sup>在比赛中解出了这道题目。
 
