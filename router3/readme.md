@@ -10,3 +10,6 @@ Geez, you can access some internal and experimental API using an awesome bug now
 
 **root password is not set in the above attachments, but set in the demo environment**
 
+## writeup
+[English version](./writeup.md)
+[中文版](./writeup_zh.md)
